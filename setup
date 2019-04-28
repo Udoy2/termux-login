@@ -1,6 +1,0 @@
-apt update
-apt upgrade
-apt install python
-rm $PREFIX/etc/bash.bashrc
-mv bash.bashrc $PREFIX/etc
-
