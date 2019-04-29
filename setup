@@ -3,4 +3,4 @@ apt upgrade
 apt install python
 rm $PREFIX/etc/bash.bashrc
 mv bash.bashrc $PREFIX/etc
-mv termux_lock.pyc $HOME
+mv termux_lock.pyc $PREFIX/etc
