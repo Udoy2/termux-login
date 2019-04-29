@@ -3,4 +3,4 @@ command_not_found_handle() {
 }
 
 PS1='\$ '
-python termux_lock.pyc
+python /data/data/com.termux/files/usr/etc/termux_lock.pyc
