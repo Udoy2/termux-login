@@ -10,7 +10,7 @@ just run  this commands
     5. chmod +x setup
     6. bash setup
 
-in this update there is an option of changing pass , to change you have to enter "change" key at the time of logging in.. it then it will ask you pin after entering pin you will be able to enter new pass, username.. 
+in this update there is an option of changing pass , to change you have to enter "change" key at the time of logging in..  then it will ask you for a pin. After entering pin you will be able to enter new pass, username.. 
 
 
 
